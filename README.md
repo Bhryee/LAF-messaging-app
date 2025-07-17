@@ -1,16 +1,24 @@
-# laf_app
+<div align="center">
+  <img width="300" height="300" alt="Logo" src="https://github.com/user-attachments/assets/b9d1e5bf-2e20-47c6-8f72-c3380659adde" />
+</div>
 
-A new Flutter project.
+ # <h1 align="center">LAF - SOHBET UYGULAMASI</h1>
 
-## Getting Started
+<div align="center">
+  <img width="3780" height="430" alt="Logo" src="https://github.com/user-attachments/assets/f38bbfcf-2c00-4de2-8118-6ac1af6dcee7" />
+</div>
 
-This project is a starting point for a Flutter application.
+# Ürün İçeriği
+LAF, dünya genelinde milyarlarca insan tarafından kullanılan, ücretsiz ve anlık mesajlaşma uygulamasıdır. Kullanıcılar, internet bağlantısı üzerinden mesaj gönderip alabilir, sevdiği insanları favori listesine ekleyerek kısa yoldan sohbet kutucuklarına ulaşabilirler.
 
-A few resources to get you started if this is your first Flutter project:
+# Backlog
+## 14 Temmuz
+- Konsepti kararlaştırma
+- Logoyu tasarlama
+- Slogan kararlaştırma
+- Figma üzerinden UI/UX tasarım
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 15 Temmuz
+- Hoşgeldin, giriş yap ve üye ol ekranlarının kodlanması
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
